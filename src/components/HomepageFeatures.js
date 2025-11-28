@@ -2,22 +2,22 @@ import React from 'react';
 
 const features = [
   {
-    title: 'Overview',
+    title: 'Zimble 2.0',
     description: 'Zimble is a powerful and reliable solution designed to help businesses seamlessly integrate and manage their e-commerce data across multiple platforms. ',
-    link: '/zimbleBenefits', 
+    link: '/ZimbleDoc', 
     image: 'img/overview-word-summary-recap-concept-600nw-2351843411.webp',
   },
   {
-    title: 'Benefits of Zimble Integration',
-    description: 'Get live updates from all your platforms to make smarter decisions.',
-    link: '/docs/real-time-data', // docs pages work too
-    image: 'img/feature-realtime.png',
+    title: 'Zimble 3.0',
+    description: 'Zimble is a powerful and reliable solution designed to help businesses seamlessly integrate and manage their e-commerce data across multiple platforms.',
+    link: '/ZimbleDoc', // docs pages work too
+    image: 'img/overview-word-summary-recap-concept-600nw-2351843411.webp',
   },
   {
-    title: 'Technical Description',
-    description: 'We ensure your data is safe with enterprise-grade security measures.',
-    link: '/docs/security',
-    image: 'img/feature-secure.png',
+    title: 'Zimble-X',
+    description: 'Future Development',
+    link: '/Zimble-x',
+    image: 'img/overview-word-summary-recap-concept-600nw-2351843411.webp',
   },
 ];
 
